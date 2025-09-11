@@ -16,22 +16,20 @@ Xin chào! Mình là **Trần Hào**, lập trình viên và **CEO** trong **Tea
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=haohaone1029&show_icons=true&count_private=true&theme=material-palenight&hide_border=true">
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haohaone1029&layout=compact&hide_border=true&theme=material-palenight">
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/TheSpeedX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/TheSpeedX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/TheSpeedX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/TheSpeedX">  <img align="right" src="https://komarev.com/ghpvc/?username=TheSpeedX"></a>
+
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedX&langs_count=8&theme=react" />
 </p>
 
-> **Lưu ý:** GitHub Stats tính theo số dòng code, không phản ánh kỹ năng cá nhân.
+<a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=TheSpeedX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
+    alt="thespeedx" /></p>
 
-### <div align="center">My Stack</div>
-
-#### <div align="center">Tools</div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,git&perline=6&theme=dark" alt="tools" />
-</p>
+<br />
 
 ---
 
